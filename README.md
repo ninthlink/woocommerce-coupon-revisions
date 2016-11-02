@@ -10,11 +10,11 @@ By default, WooCommerce Coupons do not support Revisions. This simply changes th
 ## Usage
 Just set it, and forget it?
 
-### FAQs
-Does this plugin do anything else other than adding support for revisions to the WooCommerce "Coupons" (`shop_coupon`) Custom Post Type?
+## FAQs
+### Does this plugin do anything else other than adding support for revisions to the WooCommerce "Coupons" (`shop_coupon`) Custom Post Type?
 
 Nope. That's it.
 
-Silly that they didn't do that from the beginning, right?
+### Silly that they didn't do that from the beginning, right?
 
 Yup.
